@@ -15,10 +15,10 @@ export default function Nav() {
     </div>
     <div className="hidden lg:block">
       <ul className="inline-flex mt-2">
-        <li><a className="px-4 hover:text-gray-800 text-xl uppercase" href="#">Genesis</a></li>
-        <li><a className="px-4 hover:text-gray-800 text-xl uppercase" href="#">Methodology</a></li>
-        <li><a className="px-4 hover:text-gray-800 text-xl uppercase" href="#">Collaboration</a></li>   
-        <li><a className="px-4 hover:text-gray-800 text-xl uppercase" href="/">About</a></li>
+        <li><a className="px-4 hover:text-gray-800 text-lg uppercase" href="#">Genesis</a></li>
+        <li><a className="px-4 hover:text-gray-800 text-lg uppercase" href="#">Methodology</a></li>
+        <li><a className="px-4 hover:text-gray-800 text-lg uppercase" href="#">Collaboration</a></li>   
+        <li><a className="px-4 hover:text-gray-800 text-lg uppercase" href="/">About</a></li>
       </ul>
     </div>
   </div>
