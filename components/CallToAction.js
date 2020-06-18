@@ -9,7 +9,7 @@ export default function CallToAction() {
         Get enrolled today and find the best for yourself
         </h3>
         <button
-        className="bg-white font-bold rounded-full mt-6 py-4 px-8 shadow-lg uppercase tracking-wider"
+        className="bg-white font-bold rounded-full mt-6 py-4 px-8 shadow-lg hover:shadow-xl uppercase tracking-wider"
         >
         Join Today
         </button>
