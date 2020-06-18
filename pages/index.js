@@ -14,8 +14,8 @@ export default function Home() {
     <title>PIE Foundation</title>
     <link rel="icon" href="/favicon.ico" />
   </Head>,
+    <Nav />,
     <div className="container w-screen mx-auto md:w-full">
-      <Nav />
       <Landing />
       <About />
       <Feature />

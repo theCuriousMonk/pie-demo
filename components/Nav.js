@@ -1,6 +1,6 @@
 export default function Nav() {
     return (
-    <nav>
+    <nav className="container w-screen mx-auto md:w-full" style={{position: "sticky", top: 0, background: "#ffffff"}}>
   <div className="px-6 py-2 flex justify-between">
     <img className="h-12" src="/assets/logo.png" />
     <div class="block lg:hidden">
