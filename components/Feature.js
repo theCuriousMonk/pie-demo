@@ -21,7 +21,7 @@ export default function Feature() {
     <div className="w-full md:w-1/2 pl-10">
       <h4 className="text-3xl text-gray-800 font-bold mb-3 text-green-700">Professional Support</h4>
       <p className="text-gray-600 mb-8 text-xl">PIE takes an ecosystem approach and brings together the all the key players that are instrumental in ensuring a producer collective’s success. This includes collective building NGOs, governmental agencies, private sector service providers, buyers and suppliers. The PIE ecosystem will be organized by the 6C Framework.</p>
-      <a className="bg-white font-bold rounded-full py-4 px-8 shadow-lg hover:shadow-xl uppercase tracking-wider" href="/6C">Learn about 6C Model</a>
+      <a className="bg-white font-bold rounded-full py-4 px-8 shadow-lg hover:shadow-xl uppercase tracking-wider" href="/6C">KNOW ABOUT 6C Framework</a>
     </div>
   </div>
 
