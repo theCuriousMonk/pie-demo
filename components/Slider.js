@@ -1,6 +1,6 @@
 export default function Slider() {
     return (
-        <section className="carousel relative shadow-2xl bg-white">
+        <section className="carousel relative shadow-xl bg-white">
         <div className="carousel-inner relative overflow-hidden w-full">
         {/* <!--Slide 1--> */}
         <input className="carousel-open" type="radio" id="carousel-1" name="carousel" aria-hidden="true" hidden={true} checked="checked" />

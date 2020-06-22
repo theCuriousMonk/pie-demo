@@ -11,19 +11,20 @@ import Slider from '../components/Slider'
 
 export default function Home() {
   return (
-    [<Head>
+    
+    <div>
+    <Head>
     <title>PIE Foundation</title>
     <link rel="icon" href="/favicon.ico" />
-  </Head>,
-    <Nav />,
-    <div className="container w-screen mx-auto md:w-full">
-      <Landing />
-      <About />
-      <Feature />
-      <Catalytic />
-      <Slider/>
-      <CallToAction />
-      <Footer />
-    </div>]
+  </Head>
+    <Nav />
+    <Landing />
+    <About />
+    <Feature />
+    <Catalytic />
+    <Slider/>
+    <CallToAction />
+    <Footer />
+    </div>
   )
 }
