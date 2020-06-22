@@ -6,6 +6,7 @@ import Feature from '../components/Feature'
 import CallToAction from '../components/CallToAction'
 import Catalytic from '../components/Catalytic'
 import Footer from '../components/Footer'
+import Slider from '../components/Slider'
 
 
 export default function Home() {
@@ -20,6 +21,7 @@ export default function Home() {
       <About />
       <Feature />
       <Catalytic />
+      <Slider/>
       <CallToAction />
       <Footer />
     </div>]

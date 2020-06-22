@@ -36,6 +36,7 @@ export default function Feature() {
       <img className="mt-10" src="assets/sync.png" alt="Syncing" />
     </div>
   </div>
+  <hr />
 </section>
     )
 }
