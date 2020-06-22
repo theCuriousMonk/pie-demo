@@ -13,8 +13,8 @@ export default function sixCmodel() {
       <Nav />,
       <div className="container w-screen mx-auto md:w-full">
         <SixC />
-        <Footer />
-      </div>]
+      </div>,
+      <Footer />]
     )
   }
   
