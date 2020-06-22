@@ -1,7 +1,7 @@
 export default function SixC() {
     return (
-        <div className="flex">
-            <article className="w-4/6 mx-12 mt-16">
+        <div className="md:flex lg:flex xl:flex">
+            <article className="lg:w-4/6 sm:w-full mx-12 mt-16">
                 <h1 className="text-4xl">6C Model</h1>
                 <p id="first" className="mt-8 text-gray-800 mb-8 text-xl">
                 PIE creates a digital space to connect various entities in each “C” with a stake in positive change – from producers to service providers to customers. PIE brings together communities, markets, and governments to work collaboratively across the 6Cs towards building a sustainable ecosystem. PIE is built for public good, in service of its producer members, maximizing value for farmers and off farm producers globally. As a business model, it is tremendously robust, flexible, and offers massive scalability.
