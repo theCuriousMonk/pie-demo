@@ -1,7 +1,7 @@
 export default function Landing() {
     return(
         /* background: "linear-gradient(90deg, #276749 0%, #48bb78 100%)" */
-        <div className="py-20 bg-fixed sm:bg-fixed md:bg-fixed lg:bg-fixed xl:bg-scroll" style={{background: `url(assets/bg-a.jpg)`}}>
+        <div className="py-20 bg-fixed sm:bg-fixed md:bg-fixed lg:bg-scroll xl:bg-fixed" style={{background: `url(assets/bg-a.jpg)`}}>
             <div className="container mx-auto px-8">
                 <h2 className="text-4xl font-bold mb-2 text-white">
                 Platform <span className="italic font-light">for</span> <br/>Inclusive<br/>Entrepreneurship
