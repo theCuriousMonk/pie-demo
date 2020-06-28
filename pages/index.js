@@ -12,7 +12,7 @@ import Slider from '../components/Slider'
 export default function Home() {
   return (
     
-    <div>
+    <div className="">
     <Head>
     <title>PIE Foundation</title>
     <link rel="icon" href="/favicon.ico" />

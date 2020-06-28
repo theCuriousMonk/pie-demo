@@ -1,8 +1,8 @@
 export default function Catalytic(){
     return(
         [
-        <article>
-            <div className="container mx-auto px-6 text-center">
+        <article className="container mx-auto">
+            <div className="px-6 text-center">
             <h2 className="mb-6 text-4xl font-bold">
             Catalysing Systemic Change
             </h2>
@@ -12,8 +12,8 @@ export default function Catalytic(){
             </div>
         </article>    
         ,
-        <section className="lg:flex mx-auto text-center items-baseline mb-4 mt-4">
-            <div className="lg:w-1/5 rounded overflow-hidden shadow-lg">
+        <section className="container mx-auto lg:flex mx-auto text-center items-baseline mb-4 mt-4">
+            <div className="h-25 lg:w-1/5 rounded overflow-hidden">
                 <img className="h-20 mx-auto" src="assets/platform.svg" alt="Public Goods Platform" />
                 <div class="px-6 pb-8">
                     <h2 class="font-bold text-xl mb-2">Public Goods Platform</h2>
@@ -21,15 +21,15 @@ export default function Catalytic(){
                 </div>
             </div>
 
-            <div className="lg:w-1/5 rounded overflow-hidden shadow-lg">
+            <div className="lg:w-1/5 rounded overflow-hidden">
                 <img className="h-20 mx-auto" src="assets/cocreate.svg" alt="Inspiring Co-Creation" />
                 <div class="px-6 pb-8">
-                    <h2 class="font-bold text-xl mb-2">Inspiring Co-Creation</h2>
+                    <h2 class="font-bold text-xl mb-2">Inspiring <br/>Co-Creation</h2>
                     <p class="text-gray-700 text-sm">Collaborations with a spirit of co-creation develop feeling of shared ownership and provides access to innovative ideas</p>
                 </div>
             </div>
 
-            <div className="lg:w-1/5 rounded overflow-hidden shadow-lg">
+            <div className="lg:w-1/5 rounded overflow-hidden">
                 <img className="h-20 mx-auto" src="assets/network.svg" alt="Catalysing Networks" />
                 <div class="px-6 pb-8">
                     <h2 class="font-bold text-xl mb-2">Catalysing Networks</h2>
@@ -37,15 +37,15 @@ export default function Catalytic(){
                 </div>
             </div>
 
-            <div className="lg:w-1/5 rounded overflow-hidden shadow-lg">
+            <div className="lg:w-1/5 rounded overflow-hidden">
                 <img className="h-20 mx-auto" src="assets/agency.svg" alt="Restoring Agency" />
                 <div class="px-6 pb-8">
-                    <h2 class="font-bold text-xl mb-2">Restoring Agency</h2>
+                    <h2 class="font-bold text-xl mb-2">Restoring <br/>Agency</h2>
                     <p class="text-gray-700 text-sm">Transparency and data ownership allow agency to be brought back to primary producers and their collectives</p>
                 </div>
             </div>
 
-            <div className="lg:w-1/5 rounded overflow-hidden shadow-lg">
+            <div className="lg:w-1/5 rounded overflow-hidden">
                 <img className="h-20 mx-auto" src="assets/scale.svg" alt="Designing for Scale" />
                 <div class="px-6 pb-8">
                     <h2 class="font-bold text-xl mb-2">Designing for Scale</h2>

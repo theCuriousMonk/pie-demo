@@ -1,6 +1,6 @@
 export default function Feature() {
     return(
-<section className="mx-auto px-6 p-10">
+<section className="container mx-auto px-6 p-10">
   <h2 className="text-4xl font-bold text-center text-gray-800 mb-8">
     How PIE can help?
   </h2>
