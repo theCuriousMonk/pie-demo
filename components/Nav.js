@@ -18,7 +18,7 @@ export default function Nav() {
           <div class="dropdown-content">
             <a className="p-2" href="/genesis/problem">Problem</a>
             <a className="p-2" href="/genesis/learning">Learning</a>
-            <a className="p-2" href="/genesis/solution">Solution</a>
+            {/* <a className="p-2" href="/genesis/solution">Solution</a> */}
           </div>
       </div>
 
@@ -26,21 +26,21 @@ export default function Nav() {
         <button className="px-4 hover:text-gray-800 text-base uppercase" href="#">⚙️ Methodology</button>
           <div class="dropdown-content">
             <a className="p-2" href="/methodology/approach">Approach</a>
-            <a className="p-2" href="/methodology/platform">Platform</a>
+            {/* <a className="p-2" href="/methodology/platform">Platform</a> */}
           </div>
       </div>
 
 
-      <div className="flex-none dropdown hover:bg-green-500">
+      {/* <div className="flex-none dropdown hover:bg-green-500">
         <button className="px-4 hover:text-gray-800 text-base uppercase">🎯 Impact</button>
           <div class="dropdown-content">
             <a className="p-2" href="/impact/scale">Impact at Scale</a>
             <a className="p-2" href="/impact/projects">Current Projects</a>
             <a className="p-2" href="/impact/partners">Co-Creation Partners</a>
           </div>
-      </div>
+      </div> */}
 
-      <div className="flex-none dropdown hover:bg-green-500">
+      {/* <div className="flex-none dropdown hover:bg-green-500">
         <button className="px-4 hover:text-gray-800 text-base uppercase">🤝🏻 Collaboration</button>
           <div class="dropdown-content">
             <a className="p-2" href="/collaboration/pie-chapter">PIE Chapter</a>
@@ -48,7 +48,7 @@ export default function Nav() {
             <a className="p-2" href="/collaboration/partner">Partner with Us</a>
             <a className="p-2" href="/contact">Contact</a>
           </div>
-      </div>
+      </div> */}
 
       <div className="flex-none dropdown hover:bg-green-500">
         <button className="px-4 hover:text-gray-800 text-base uppercase" href="#">ℹ️ About</button>
