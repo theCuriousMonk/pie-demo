@@ -9,7 +9,7 @@ export default function Landing() {
                 <h3 className="text-2xl mb-8 text-gray-200">
                 <span className="">Creating the opportunity for 100 <br/>million artisans and farmers<br/>to reach prosperity.</span>
                 </h3>
-                <button className="bg-white font-bold rounded-full mt-6 py-4 px-8 shadow-lg hover:shadow-xl uppercase tracking-wider">
+                <button className="bg-white font-bold rounded-full mt-6 py-4 px-8 shadow-lg hover:shadow-xl hover:bg-gray-100 uppercase tracking-wider">
                     Learn More
                 </button>
             </div>

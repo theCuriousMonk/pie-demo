@@ -13,7 +13,7 @@ export default function Catalytic(){
         </article>    
         ,
         <section className="container mx-auto lg:flex mx-auto text-center items-baseline mb-4 mt-4">
-            <div className="h-25 lg:w-1/5 rounded overflow-hidden">
+            <div className="h-25 lg:w-1/5 rounded overflow-hidden sm:">
                 <img className="h-20 mx-auto" src="assets/platform.svg" alt="Public Goods Platform" />
                 <div class="px-6 pb-8">
                     <h2 class="font-bold text-xl mb-2">Public Goods Platform</h2>
