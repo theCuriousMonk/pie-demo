@@ -19,8 +19,8 @@ export default function Home() {
     <Nav />
     <Landing />
     <About />
-    <Feature />
     <Catalytic />
+    <Feature />
     <Slider/>
     <CallToAction />
     <Footer />
