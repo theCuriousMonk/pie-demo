@@ -1,7 +1,7 @@
 export default function About() {
     return (
         <section className="shadow" style={{background: "#f2f9f0"}}>
-            <div className="mx-auto px-10 lg:px-20 xl:px-40 text-center py-20 shadow-xl">
+            <div className="mx-auto px-10 lg:px-40 xl:px-40 text-center py-20 shadow-xl">
                 <h2 className="mb-6 text-4xl font-bold text-center">
                     <span>About PIE</span>
                 </h2>
